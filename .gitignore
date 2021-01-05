@@ -1,0 +1,5 @@
+# 项目排除路径
+/my_tanhua_dubbo/my_tanhua_dubbo_interface/target/
+/my_tanhua_dubbo/my_tanhua_dubbo_service/target/
+/my_tanhua_server/target/
+/my_tanhua_sso/target/
